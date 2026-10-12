@@ -160,14 +160,13 @@ Project ini masih dapat dikembangkan lebih lanjut, misalnya dengan menambahkan v
 
 Pengembangan berikutnya sebaiknya didasarkan pada hasil analisis dan kebutuhan data yang sebenarnya.
 
-## Sumber Data
+### Sumber Data
 
 Kaggle. (n.d.). *Amazon Sales Dataset*. Kaggle.
 
 https://www.kaggle.com/code/khushipitroda/amazon
 
-
-
+---
 
 Semoga repository ini dapat menjadi dokumentasi proses pembelajaran sekaligus referensi untuk memahami dasar-dasar analisis data menggunakan Python.
 
