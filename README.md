@@ -166,10 +166,8 @@ Kaggle. (n.d.). *Amazon Sales Dataset*. Kaggle.
 
 https://www.kaggle.com/code/khushipitroda/amazon
 
-## Penutup
 
-Melalui project ini, saya mempelajari bahwa analisis data bukan hanya tentang menjalankan kode, tetapi juga memahami data, memeriksa kualitasnya, mengolah informasi, dan menarik kesimpulan yang sesuai dengan hasil yang ditemukan.
 
 Semoga repository ini dapat menjadi dokumentasi proses pembelajaran sekaligus referensi untuk memahami dasar-dasar analisis data menggunakan Python.
 
-Terima kasih sudah mengunjungi repository ini! 🙌
+Terima kasih sudah mengunjungi repository ini! 
