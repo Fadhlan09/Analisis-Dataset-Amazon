@@ -167,12 +167,12 @@ Kaggle. (n.d.). *Amazon Sales Dataset*. Kaggle.
 https://www.kaggle.com/code/khushipitroda/amazon
 https://ejournal2.unud.ac.id/index.php/jnatia/article/download/1727/1020
 ---
-
 Berdasarkan analisis dataset Amazon yang dilakukan menggunakan Python, proses pengolahan data dan penerapan Machine Learning membantu memahami karakteristik data produk serta menguji kemampuan model dalam memprediksi rating produk. Evaluasi model Random Forest menghasilkan nilai MAE sebesar 0.6614, RMSE sebesar 0.9610, dan R² Score sebesar -0.0119.
 
 Hasil evaluasi menunjukkan bahwa model masih belum mampu memprediksi rating secara optimal. Nilai MAE menunjukkan rata-rata selisih absolut prediksi sekitar 0,66 poin rating, sedangkan nilai RMSE menunjukkan bahwa kesalahan prediksi masih perlu diperbaiki. Sementara itu, nilai R² Score yang negatif menunjukkan bahwa model memiliki kinerja lebih buruk dibandingkan pendekatan sederhana yang memprediksi rata-rata rating pada data pengujian.
 
 Oleh karena itu, pengembangan selanjutnya dapat dilakukan melalui pemilihan fitur yang lebih relevan, penyesuaian parameter (hyperparameter tuning), serta perbandingan dengan algoritma regresi lainnya. Proyek ini memberikan pemahaman bahwa keberhasilan model Machine Learning tidak hanya ditentukan oleh algoritma yang digunakan, tetapi juga oleh kualitas data, pemilihan fitur, dan proses evaluasi yang tepat.
+
 ---
 
 Semoga repository ini dapat menjadi dokumentasi proses pembelajaran sekaligus referensi untuk memahami dasar-dasar analisis data menggunakan Python.
